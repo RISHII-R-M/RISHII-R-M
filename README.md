@@ -1,5 +1,7 @@
 <h1 align="center">Hi there, I'm Rishii R Makhija 👋</h1>
-
+<p align="center">
+  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" alt="GIF of something cool here"/>
+</p>
 I am an experienced Associate Attack Surface and Vulnerability Assessment Analyst with a strong background in full stack development and coding. I hold a Master of Computer Applications (MCA) degree and am certified in multiple areas of cybersecurity including CEH V11, CRTP, EJPT, CCIO, IBM Certified Cybersecurity Analyst, and TEXIAL INFORMATION SECURITY AUDITOR. In my free time, I participate in CTF platforms and bug bounty programs to stay current in the industry. I also volunteer as a Cyber Crime Intervention Officer on the Cop Connect platform, offering assistance to individuals in need. With my combined education and hands-on experience, I am confident in my ability to make a significant contribution to any organization seeking a dedicated and knowledgeable cybersecurity professional.
 
 ## Current Role
