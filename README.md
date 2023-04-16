@@ -51,8 +51,8 @@ Check out my latest tech tutorials and gaming videos on [YouTube](https://www.yo
   🎓 TEXIAL INFORMATION SECURITY AUDITOR
 </p>
 
-<h2 align="center">Fun Fact</h2>
+
 
 <p align="center">
-  😂 Did you know that I also volunteer in Cop Connect to help cyber crime victims? I believe that everyone should have access to cybersecurity resources and support, and I am passionate about making a positive impact in my community.
+  Did you know that I also volunteer in Cop Connect to help cyber crime victims? I believe that everyone should have access to cybersecurity resources and support, and I am passionate about making a positive impact in my community.
 </p>
